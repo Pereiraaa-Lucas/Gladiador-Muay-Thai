@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="GitHub.png" alt="Terminal" width="70%"/>
+  <img src="GitHub.png" alt="Gladiador-Muary-Thai" width="70%"/>
 </p>
