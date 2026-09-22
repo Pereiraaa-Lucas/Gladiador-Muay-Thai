@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="GitHub.png" alt="Gladiador-Muary-Thai" width="70%"/>
+  <img src="Gladiador.png" alt="Gladiador Muay Thai Logo" width="70%"/>
 </p>
