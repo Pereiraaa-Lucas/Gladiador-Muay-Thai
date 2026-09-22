@@ -1,27 +1,10 @@
 <p align="center">
-  <img src="Gladiador.png" alt="Gladiador Logo" width="30%"/>
+  <img src="Gladiador.png" alt="Logótipo Principal" width="30%"/>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
 </p>
-
----
-
-## ⚡ Como Desenvolvi esta Arte ASCII (Passo a Passo)
-
-O processo de transformar uma imagem conceito (como a logo do Gladiador Muay Thai) num design de terminal estilizado envolve engenharia visual e processamento de imagem passo a passo:
-
-1. **Seleção e Preparação da Imagem:**
-   * Escolha de uma imagem com alto contraste (preto e branco) para garantir que os caracteres ASCII mantenham a nitidez e os contornos definidos.
-2. **Processamento Digital e Conversão ASCII:**
-   * Utilização de ferramentas de conversão online (`Text Image`) para mapear os pixels da imagem original para carateres tipográficos.
-   * Ajuste de parâmetros avançados como densidade de carateres (largura de 125 colunas), dimensionamento e escolha do modo de cor para otimizar o contraste[cite: 12].
-3. **Estilização e Integração Visual:**
-   * Aplicação de um fundo escuro absoluto para fundir a arte perfeitamente com o tema do GitHub.
-   * Exportação do resultado final em alta resolução (`PNG`) para garantir compatibilidade e fluidez na renderização do repositório.
-
----
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
