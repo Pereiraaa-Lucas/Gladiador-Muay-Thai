@@ -1,35 +1,43 @@
+<div align="center">
+
+# ⚡ ASCII Art Terminal Pipeline
+### Transformando Imagens em Código & Estética Hacker
+
+</div>
+
+---
+
+## 🎯 Sobre o Projeto
+Este repositório documenta o processo criativo e técnico de conversão de imagens reais (como a logo do **Gladiador Muay Thai** e retratos pessoais) em **Arte ASCII** com temas de terminal e cyberpunk. O objetivo é integrar estes visuais únicos em perfis profissionais, portefólios e ambientes de desenvolvimento.
+
+---
+
+## 🛠️ Passo a Passo: Como Desenvolver a Tua Arte ASCII
+
+Se queres converter qualquer fotografia ou logótipo numa impressionante matriz de carateres, segue este guia prático utilizando a ferramenta web **Text-Image**:
+
+### 1. Aceder à Ferramenta
+* Entra no site oficial de conversão: [Text-Image Converter](https://www.text-image.com/convert/).
+
+### 2. Carregar a Imagem
+* Clica no botão **"Escolher ficheiro" (Choose File)** e seleciona a imagem desejada a partir do teu dispositivo (por exemplo, um logótipo em formato PNG ou JPG).
+
+### 3. Ajustar as Configurações Avançadas (`Advanced options`)
+Para obteres um resultado limpo e legível (semelhante ao estilo terminal), ajusta os parâmetros da seguinte forma:
+* **Characters:** Define os carateres base (podes usar os valores predefinidos ou personalizar).
+* **Image width:** Ajusta a largura da matriz (recomenda-se entre **100 e 150 carateres** para garantir bom detalhe sem quebrar o layout).
+* **Font size:** Define como `Smallest` (Mais pequeno) para compactar os carateres e criar definição de imagem.
+* **Background:** Escolhe a cor de fundo (geralmente **Preto / Black**) para simular uma janela de terminal real.
+* **Show it in:** Mantém selecionado em **Colour** (Cor) para preservar os tons originais ou aplicar efeitos monocromáticos (como o verde Matrix).
+
+### 4. Gerar a Conversão
+* Clica no botão **"Convert!"** localizado logo abaixo do campo de upload para processar a imagem.
+
+### 5. Exportar e Aplicar
+* Copia o resultado gerado ou guarda a imagem final para a integrar na raiz do teu repositório do GitHub (por exemplo, como `Gladiador.png` ou `GitHub.png`).
+* No teu `README.md`, exibe-a de forma centralizada e responsiva com o seguinte código Markdown:
+
+```markdown
 <p align="center">
-  <img src="Gladiador.png" alt="Logótipo Principal" width="30%"/>
+  <img src="Gladiador.png" alt="ASCII Art Preview" width="40%"/>
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,python,git,vscode" />
-  </a>
-</p>
-
-<h3 align="center">
-  🔗 <b>Connect with me:</b>
-  <br><br>
-  <a href="https://github.com/Pereiraaa-Lucas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Follow+my+journey%3A;"/>
-</p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=FF7A00&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
